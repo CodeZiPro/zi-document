@@ -7,6 +7,8 @@ It allows you to upload multiple documents and share them with an unlimited numb
 
 In the future we will continuously upgrade and add many other useful features.
 
+https://document.saletoolkit.com/intro
+
 https://zicms.pro/doc/zi-document-introduce.faq12.html?mid=9&menu=70
 
 
